@@ -1,5 +1,5 @@
-# system_monitor
-This project is aimed to monitor our system using different parameter:
+# system_monitor project
+This project is aimed to monitor our system using different parameters:
 - CPU usage
 - Memory usage
 - Disk usage
